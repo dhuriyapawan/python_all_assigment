@@ -50,11 +50,11 @@
 
 
 # Q9. Can we take more than one input from the user using single input() function? If yes, how? If no, why?
-# a,b=input("Enter two numbers").split()
-# print(a,b)
-# output
-# Enter two numbers22 44
-# 22 44
+a,b=input("Enter two numbers").split()
+print(a,b)
+output
+Enter two numbers22 44
+22 44
 
 
 # Q10. What are keywords?
